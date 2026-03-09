@@ -1,9 +1,9 @@
-# sharmajimart
+S MART ULTRA
 In this website all products are available for your needed to execute 
 <!DOCTYPE html>
 <html>
 <head>
-<title>SHARMA JI MART</title>
+<title>S-MART ULTRA</title>
 <style>
 body{
 font-family: Arial;
@@ -13,7 +13,7 @@ background:#f5f5f5;
 
 header{
 background:green;
-color:white;
+color:YELLOW;
 padding:15px;
 text-align:center;
 }
@@ -25,7 +25,7 @@ text-align:center;
 }
 
 nav a{
-color:white;
+color:WHITE;
 margin:10px;
 text-decoration:none;
 font-size:18px;
@@ -68,7 +68,7 @@ margin-top:20px;
 <body>
 
 <header>
-<h1>SHARMA JI MART</h1>
+<h1>S-MART ULTRA</h1>
 <p>Your Online Grocery Store</p>
 </header>
 
@@ -111,7 +111,7 @@ margin-top:20px;
 </div>
 
 <h2>Contact Us</h2>
-<p>Email: nishantstudyjee091@gmail.com</p>
+<p>Email: sharmajimart0089@gmail.com</p>
 <p>Phone: Add your number</p>
 
 </div>
